@@ -66,4 +66,4 @@ id = "abc";   // ✅
 let status1: "pending" | "success" | "failed";
 
 status1 = "pending"; // ✅
-status1 = "done";    // ❌
+// status1 = "done";    // ❌
